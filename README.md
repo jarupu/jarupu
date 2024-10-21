@@ -1,8 +1,17 @@
 # Javier Ruiz Puchol
 ## 💫 About Me:
 <p align="justify">
-📊💡Estudiante de Máster en Big Data Analytics en EDEM | Economista🎓<br><br>🎓 Economista graduado en el Grupo ARA de la Universidad de Valencia. Fue a través de asignaturas como Econometría, Análisis de Datos y Programación(R) durante mi formación, donde descubrí mi verdadera pasión por el mundo del dato. <br><br>💻 Actualmente, me encuentro completamente inmerso y emocionado con el Máster en Big Data Analytics en EDEM, donde realmente he cultivado mi pasión por las tecnologías que impulsan el mundo del análisis de datos. Mi dominio incluye, hasta la fecha, herramientas como Python, SQL, Docker, Apache Kafka, Apache Spark , con las que sigo aprendiendo cada día. Además también he aprendido a utilizar herramientas de visualización de datos como Tableau.<br><br>🏆 Desde mi participación en el Simulador de Empresas de GMC donde conseguimos una ajustada segunda posición en la fase autonómica; hasta la participación en diversos 'Hackathones' como el de H4Innovation con el que pudimos presentar nuestra idea de negocio en las oficinas de Hotelbeds en Mallorca.<br><br>⚽🏎️ Me gustan mucho los deportes, en especial el fútbol. También me gusta sufrir, porque encima soy del Atleti .
+📊💡 Graduado en Máster en Big Data Analytics en EDEM | Economista
 
+🎓 Economista graduado en el Grupo ARA de la Universidad de Valencia.
+
+💻 Recientemente he completado el Máster en Big Data Analytics en EDEM, donde he adquirido experiencia tanto en roles y herramientas de Data Engineering (gestión de BBDD, Spark, Kafka, Cloud) como en Machine Learning y Deep Learning (Keras, TensorFlow). Durante este último año, he desarrollado una fuerte pasión por la ciencia de datos y estoy preparado para seguir avanzando en este campo, tanto en proyectos de Inteligencia Artificial como en roles de Ingeniería de Datos.
+
+🏆 He liderado equipos en desafíos complejos. Desde mi participación en el Simulador de Empresas de GMC, donde obtuvimos una ajustada segunda posición en la fase autonómica, hasta la participación en varios hackathones, como el de H4Innovation, donde llevamos nuestra idea de negocio a las oficinas de Hotelbeds en Mallorca.
+
+⚽ Jugador del Recreatiu Polinyà del Xuquer en Tercera FFCV.
+
+¡Conectemos! 🚀🔍
 </p>
 
 
